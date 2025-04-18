@@ -19,7 +19,16 @@ The system allows users to check out and return books using an honor-based syste
 - No external libraries
 
 ## Project Structure
-
+neighborhood-library/
+├── src/
+│   └── com/
+│       └── pluralsight/
+│           ├── LibraryApp.java
+│           └── Book.java
+├── screenshots/
+│   
+├── README.md
+└── .gitignore
 
 ## Screenshots
 
